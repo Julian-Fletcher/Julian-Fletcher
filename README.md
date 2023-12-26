@@ -1,5 +1,5 @@
 - Hi, I’m @Julian-Fletcher
-- I’m a computer science student at the University of Missouri - Columbia. I'm looking to concentrate in Data Science and Analytics 
+- I’m a computer science student at the University of Missouri interested in Geographic Information Systems, Data Visualization, and Machine Learning
 - You can reach me at jf6fz@umsytem.edu
 
 <!---
